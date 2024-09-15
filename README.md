@@ -20,7 +20,7 @@ Feel free to reach out to us for any inquiries or support:
 
 ### Google Map Location
 
-Find us on Google Maps: [Google Map Location](https://www.google.com/maps?ll=27.674111,85.332703&z=16&t=m&hl=en&gl=NP&mapclient=embed&q=27%C2%B040%2726.8%22N+85%C2%B020%2707.0%22E+27.674111,+85.335278@27.6741111,85.3352778)
+Find us on Google Maps: [Google Map Location](https://www.google.com/maps/place/Sayatri/@27.6737123,85.3345317,15.64z/data=!4m6!3m5!1s0x39eb19d04a674317:0x9eb7991e7144a8c8!8m2!3d27.6741446!4d85.3353058!16s%2Fg%2F11bzrpmzv4?hl=en&entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)
 
 ## Our Services
 
